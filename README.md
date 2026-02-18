@@ -41,7 +41,7 @@ A real-time bookmark manager built with **Next.js 14**, **Supabase**, and **Tail
 ## 🏗️ Project Structure
 
 ```
-smart-bookmark-app/
+Liststash/
 ├── app/
 │   ├── auth/
 │   │   └── callback/
